@@ -12,3 +12,5 @@ const users = [
     hobbies: ["sketching", "cooking", "bike trips"]
   }
 ];
+
+const company = { name: 'WealthEngine' }
