@@ -10,7 +10,11 @@ const users = [
   {
     name: "Soumik Paul",
     hobbies: ["sketching", "cooking", "bike trips"]
-  }
+  },
+  {
+    name: "Sandeep Mukta",
+    hobbies: ["Travelling", "Music"]
+  },
 ];
 
 const company = { name: 'WealthEngine' }
