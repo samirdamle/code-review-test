@@ -1,6 +1,6 @@
 const users = [
     {
-        name: 'Samir',
+        name: 'Samir Damle',
         hobbies: ['hiking', 'tennis']
     }
 ]
