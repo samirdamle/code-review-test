@@ -1,0 +1,19 @@
+{
+  "name": "code-review-test",
+  "version": "1.0.0",
+  "description": "WE ST code review test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn4growth/code-review-test.git"
+  },
+  "author": "Sandeep Mukta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learn4growth/code-review-test/issues"
+  },
+  "homepage": "https://github.com/learn4growth/code-review-test#readme"
+}
